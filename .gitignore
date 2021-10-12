@@ -26,10 +26,11 @@ hs_err_pid*
 bin/
 .classpath
 git/
-.gitatributes
+.gitattributes
 .gradle/
 .settings/
 gradle/
 HELP.md
 README.md
-settings.grdle
+settings.gradle
+.project
